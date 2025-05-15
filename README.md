@@ -68,12 +68,6 @@ This project analyzes booking and revenue data from the AtliQ hotel chain. The o
 
 ---
 
-## 📸 Dashboard Preview (Optional)
-
-Add screenshots of visualizations or booking trend charts here for visual context.
-
----
-
 ## 👤 Author
 
 **Meet Patel**  
